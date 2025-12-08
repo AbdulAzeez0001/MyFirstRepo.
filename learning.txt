@@ -1,0 +1,1 @@
+I have grasped the core local Git workflow for managing changes on my computer. Specifically, the commands git add to stage files, git commit to save changes with a clear message, and git push origin main to sync those saved changes up to my GitHub repository are now clear. This three-step process is crucial for saving work reliably.
